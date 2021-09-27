@@ -1,6 +1,7 @@
 site_name: MKLorum Sanjay1
 site_url: https://baksharp.github.io/my-project
+theme: material
 nav:
     - Home: index.md
     - About: about.md
-theme: readthedocs
+    
